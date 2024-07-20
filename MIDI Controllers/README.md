@@ -1,6 +1,9 @@
-7MM_MIDI_Joystick_SOLO_PBMD_PEW_XIAO_v2B.UF2
- MIDI SOLO Joystick, with Serial MIDI (if TRS jack present).
- Pitch Bend and Modulation (PBMD)
- Pitch Bend on East West (PEW)
- Modulation on center to North
+**MIDI SOLO Joystick**
+ 
+Pitch Bend **North South** : 7MM_MIDI_Joystick_SOLO_PB_NS_XIAO_V3C.UF2
+
+Pitch Bend **East West** : 7MM_MIDI_Joystick_SOLO_PB_EW_XIAO_V3C.UF2
+
+ 
+
 
